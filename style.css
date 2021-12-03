@@ -45,7 +45,7 @@ footer {
 .image {
     height: 500px;
     width: 500px;
-    max-width: 100%;
+    width: 100%;
 }
 
 .linkarea {
